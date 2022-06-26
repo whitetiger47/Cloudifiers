@@ -1,0 +1,9 @@
+cloud:
+  aws:
+    credentials:
+      access-key-id: ASIAZ7ZFBDOWESO6GP5J
+      secret-access-key: d1sjEJ+eSuC0MRHKxZHZyH8NAIjpD5yIUnMo3z6n
+      session-token: FwoGZXIvYXdzECkaDMVlYEF8aUpwjQOBvSLAARFqqFUVRULYZ3pvLtzJWYxQzfR19CSmae6jg/pO7x8mQBA/zu8tetE3LtHXjiE9uLumAtg549yqQdfW0FtKK35W2KY0nLg4uILWjg2mU3yA9840jKqtQAxxpjho+CwohNd1wXOynPMfNAbzfnFLAsqJo0qufBOdICE/CrF2xVF/x6uLMNRAdShXBIfdhGnG/PAPv0QzmL8HGBHU2SHM3b+/uG9mhe+WoQVI3O0WOkWrpiT1dvZ1Wj1qRP514P4YwSjAwbiSBjItWjuV2+w+/KiApGjSpf2dje6+KPnNVIsOj+flq2+XVLO2cdpDoJbz9BOFdLiT
+    region:
+      static: us-east-1
+      auto: false

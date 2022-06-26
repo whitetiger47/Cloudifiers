@@ -1,0 +1,4 @@
+cloud:
+  aws:
+    bucket:
+      bucket-name: cloudifiers-bucket

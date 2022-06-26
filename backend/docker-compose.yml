@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+ data-cleaning:
+  image: jaypatel24298/cloudifiers-app
+  ports: 
+   - "5000:5000"
